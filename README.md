@@ -1,4 +1,4 @@
-! [logo] 
+![logo](https://github.com/AliShan62/AliShan62/blob/main/develop-full-stack-web-design-in-mern-stack-html-css-javascript-react-node-js.jpg) 
 <h1 align="center">Hi 👋, I'm Ali Shan</h1>
 <h3 align="center">I'm a passionate MERN Stack Developer with 2 years of hands-on experience.</h3>
 <img align="right" alt="coding" width="350px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
