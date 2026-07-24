@@ -38,6 +38,15 @@ Bridging software engineering and artificial intelligence to build intelligent, 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  🔬 Research Interests
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+✔ Artificial Intelligence & Machine Learning <br>
+✔ Deep Learning & Generative AI <br>
+✔ AI & Robotics <br>
+✔ Autonomous Systems & Intelligent Control <br>
+✔ Computer Vision & AI in Healthcare <br>
+✔ AI & IoT for Smart Systems <br>
+✔ AI in Cybersecurity <br>
+✔ Data Science & Intelligent Systems <br>
+✔ AI-Driven Optimization & Decision-Making <br>
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
