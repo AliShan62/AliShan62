@@ -23,3 +23,12 @@ Bridging software engineering and artificial intelligence to build intelligent, 
 𝕏 (Twitter): https://x.com/alishanit62 <br>
 
 📘 Facebook: https://www.facebook.com/ali.shan.shan.327857 <br>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 🛠️ Technical Expertise
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+✔ Frontend: HTML, CSS, Bootstrap, JavaScript, ReactJS, Redux, API Integrations <br>
+✔ Backend: Node.js, Express.js, Java, Python <br>
+✔ Databases: MongoDB, SQL, Firebase, MySQL <br>
+✔ Cloud & DevOps: AWS, Linux, CI/CD, Terraform <br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
