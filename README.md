@@ -13,7 +13,7 @@ I am an AI & Software Engineer pursuing an MS in Artificial Intelligence at Beyk
 Bridging software engineering and artificial intelligence to build intelligent, scalable, and impactful technology solutions.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🌐 Software Engineering & AI Portfolio <br>
+🌐 Social & Professional Links <br>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 💼 LinkedIn: https://www.linkedin.com/in/alishanservices/ <br>
