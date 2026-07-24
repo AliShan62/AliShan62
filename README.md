@@ -73,4 +73,36 @@ A healthcare appointment application that enables users to book appointments, ma
  🛒 E-Commerce Platform
 A full-stack e-commerce application featuring product search, categorization, authentication, payment integration, and a user-friendly shopping experience.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 💼 Professional Experience
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 🤖 Artificial Intelligence Researcher
+Beykoz University | Apr 2026 – Present | Istanbul, Türkiye
 
+Exploring Artificial Intelligence, Machine Learning, and intelligent systems through research and practical applications.
+
+ 💻 WordPress Developer
+University of Education, Lahore – UE Incubation Center** | Jan 2024 – Nov 2025
+
+Worked on WordPress development and contributed to **UniWars Revolution**, a 3D FPS game promoting eSports in Pakistan.
+
+ 🤖 Artificial Intelligence Researcher
+University of Education, Lahore** | Jan 2023 – Jun 2025
+
+Worked on AI research projects in healthcare, cybersecurity, smart transportation, and environmental sustainability.
+
+ ⚙️ MERN Stack Developer
+Freelance | Mar 2023 – Sep 2023
+
+Built full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
+
+ 🖥️ Backend Developer
+Braintrust – Freelance | Aug 2022 – Jan 2023
+
+Developed backend applications and APIs using Node.js, Express.js, Java, and Python.
+
+ 🎨 Frontend Developer
+Freelance | Sep 2021 – Mar 2022
+
+Developed responsive web applications using HTML, CSS, JavaScript, React.js, and Redux.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
