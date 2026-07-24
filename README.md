@@ -13,11 +13,8 @@ I am an AI & Software Engineer pursuing an MS in Artificial Intelligence at Beyk
 Bridging software engineering and artificial intelligence to build intelligent, scalable, and impactful technology solutions.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🌐 Software Engineering & AI Portfolio
-💼 LinkedIn: https://www.linkedin.com/in/alishanservices/
-
-🌐 Portfolio: https://portfolio-alishan.vercel.app
-
-𝕏 X: https://x.com/alishanit62
-
+🌐 Software Engineering & AI Portfolio <br>
+💼 LinkedIn: https://www.linkedin.com/in/alishanservices/  <br>
+🌐 Portfolio: https://portfolio-alishan.vercel.app <br>
+ 𝕏 Twitter: https://x.com/alishanit62 <br>
 📘 Facebook: https://www.facebook.com/ali.shan.shan.327857
