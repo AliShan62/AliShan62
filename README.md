@@ -27,8 +27,12 @@ Bridging software engineering and artificial intelligence to build intelligent, 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  🛠️ Technical Expertise
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-✔ Frontend: HTML, CSS, Bootstrap, JavaScript, ReactJS, Redux, API Integrations <br>
+✔ Frontend: HTML, CSS, Bootstrap, JavaScript, ReactJS, Redux, API Integrations 
+
 ✔ Backend: Node.js, Express.js, Java, Python <br>
+
 ✔ Databases: MongoDB, SQL, Firebase, MySQL <br>
+
 ✔ Cloud & DevOps: AWS, Linux, CI/CD, Terraform <br>
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
