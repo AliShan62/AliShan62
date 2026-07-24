@@ -1,4 +1,4 @@
-![logo](https://github.com/AliShan62/AliShan62/blob/main/mern-stack.png)
+
 
 <h1 align="center">Hi 👋, I'm Ali Shan</h1>
 
