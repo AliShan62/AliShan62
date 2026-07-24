@@ -10,4 +10,5 @@ I am an AI & Software Engineer pursuing an MS in Artificial Intelligence at Beyk
 🗄️ MongoDB, MySQL, SQL & Cloud Technologies
 
 Bridging software engineering and artificial intelligence to build intelligent, scalable, and impactful technology solutions.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
