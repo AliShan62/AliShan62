@@ -105,3 +105,11 @@ Developed backend applications and APIs using Node.js, Express.js, Java, and Pyt
 Freelance | Sep 2021 – Mar 2022
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 🎓 Education
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ **🎓 MS in Artificial Intelligence**
+**Beykoz University, Istanbul, Türkiye** | 2026 – Present
+
+**🎓 Bachelor of Science (BS) in Information Technology**
+
+**University of Education, Lahore, Pakistan** | 2021 – 2025
