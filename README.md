@@ -91,7 +91,7 @@ University of Education, Lahore | Jan 2023 – Jun 2025
 
 Worked on AI research projects in healthcare, cybersecurity, smart transportation, and environmental sustainability.
 
-** ⚙️ MERN Stack Developer**
+**⚙️ MERN Stack Developer**
 Freelance | Mar 2023 – Sep 2023
 
 Built full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
