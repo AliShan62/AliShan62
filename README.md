@@ -82,12 +82,12 @@ Beykoz University | Apr 2026 – Present | Istanbul, Türkiye
 Exploring Artificial Intelligence, Machine Learning, and intelligent systems through research and practical applications.
 
  **💻 WordPress Developer**
-University of Education, Lahore – UE Incubation Center** | Jan 2024 – Nov 2025
+University of Education, Lahore – UE Incubation Center | Jan 2024 – Nov 2025
 
 Worked on WordPress development and contributed to **UniWars Revolution**, a 3D FPS game promoting eSports in Pakistan.
 
  **🤖 Artificial Intelligence Researcher**
-University of Education, Lahore** | Jan 2023 – Jun 2025
+University of Education, Lahore | Jan 2023 – Jun 2025
 
 Worked on AI research projects in healthcare, cybersecurity, smart transportation, and environmental sustainability.
 
@@ -103,6 +103,5 @@ Developed backend applications and APIs using Node.js, Express.js, Java, and Pyt
 
  **🎨 Frontend Developer**
 Freelance | Sep 2021 – Mar 2022
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
